@@ -6,7 +6,9 @@
 ### Ulster University
 
 School of Communication & Media
+
 Faculty of Arts and Humanities and Social Sciences
+
 Shore Road, 
 Newtownabbey BT370QB
 United Kingdom
