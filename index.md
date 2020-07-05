@@ -6,10 +6,13 @@
 ### Ulster University
 
 School of Communication & Media
+
 Faculty of Arts and Humanities and Social Sciences
-Shore Road, Newtownabbey
-BT370QB
+
+Shore Road, 
+Newtownabbey BT370QB
 United Kingdom
+
 Email: j.romoli@ulster.ac.uk
 URL: www.jacoporomoli.com
 
