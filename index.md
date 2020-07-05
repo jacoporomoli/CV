@@ -34,28 +34,34 @@ URL: www.jacoporomoli.com
  Postdoctoral Fellow, Macquarie University
 
 ### Other Positions and Appointments
-2019-2022
- Honorary Associate Professor, University College London, UK
+2019-2022 - Honorary Associate Professor, University College London, UK
 
 2012-
  Director, National Geographic Science Festival, Auditorium Parco della Musica, Rome, Italy
+
 2019-
  External member, Language and Meaning Centre, University College London, UK
+
 2012-2018
  Associate Investigator, Centre of Excellence in Cognition and its Disorders, Maquarie University
+
 2018-2024
- Abilitazione Scientica Nazionale, Associate professor, seore 10/G1, MIUR, Italy
+ Abilitazione Scientifica Nazionale, Associate professor, seziore 10/G1, MIUR, Italy
+
 2018-
  Project partner, Xprag.de, New pragmatic theory based on experimental evidence, SPP 1727
-Education
+
+### Education
+
 2016
- P.G. certicate in Higher Education Practice, Ulster University
+ P.G. certificate in Higher Education Practice, Ulster University
+
 2012
- P.D in Linguistics with a minor in Psycholinguistics, Harvard University
-Dissertation:
- So but strong: neg-raising, so triggers, and exhaustication
- (Chair: Gennaro Chierchia)
-2006
- B.A. in eories and Technologies of Communication, University of Milan-Bicocca
-2004
- B.A. in Psychology of Communication, University of Milan-Bicocca
+ PHD in Linguistics with a minor in Psycholinguistics, Harvard University
+
+### Dissertation:
+2006 - Sofy but strong: neg-raising, soft triggers, and exhaustification (Chair: Gennaro Chierchia)
+
+2004 - B.A. in Theories and Technologies of Communication, University of Milan-Bicocca
+
+2004 - B.A. in Psychology of Communication, University of Milan-Bicocca
