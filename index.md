@@ -5,9 +5,27 @@
 # Curriculum Vitae
 ### Ulster University
 
-I am a Senior Lecturer and Director of the Master in Linguistics at Ulster University in Belfast. Starting in August 2020, I will be an Associate Professor in English Linguistics at the University of Bergen. I am also Honorary Associate Professor at UCL in London.
+School of Communication & Media
+Faculty of Arts and Humanities and Social Sciences
+Shore Road, Newtownabbey
+BT370QB
+United Kingdom
+Email: j.romoli@ulster.ac.uk
+URL: www.jacoporomoli.com
 
-I was also an Associate Investigator at the Australian Research Council’s Centre of Excellence in Cognition and its Disorders from 2012 to 2018 and I was a Postdoctoral Fellow in the Cognitive Science Department at Macquarie University in Sydney. I received my PhD from Harvard University. My thesis chairs were Gennaro Chierchia, Danny Fox, Irene Heim, and Bernhard Nickel.
+### Academic Positions
+
+2020 Associate Professor in English Linguistics, Foreign Languages Department, University of Bergen
+2017-2020 Senior Lecturer in Linguistics, School of Communication and Media, Ulster University
+2014-2020
+ Course Director of MSc in Linguistics, School of Communication and Media, Ulster University
+2013-2017
+ Lecturer in Linguistics, School of Communication and Media, Ulster University
+2012-2013
+ Postdoctoral Fellow, Macquarie University
+
+### Other Positions and Appointments
+2019-2022
 
 My research is interdisciplinary in nature and lies at the intersection between Linguistics, Philosophy of language and Psycholinguistics. In my work, I focus on the study of meaning and how it interfaces with linguistic knowledge and general cognition. I fully integrate theoretical and experimental perspectives, working on theoretical models and testing their fine-grained predictions with different psycholinguistic methods in different populations and languages.
 
