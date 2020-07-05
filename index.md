@@ -2,8 +2,8 @@
 <a href="https://jacoporomoli.github.io/Publications/">Publications</a>
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
-# Jacopo Romoli
-### Curriculum Vitae
+# Curriculum Vitae
+### Ulster
 
 I am a Senior Lecturer and Director of the Master in Linguistics at Ulster University in Belfast. Starting in August 2020, I will be an Associate Professor in English Linguistics at the University of Bergen. I am also Honorary Associate Professor at UCL in London.
 
