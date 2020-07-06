@@ -3,19 +3,15 @@
 <a href="https://jacoporomoli.github.io/Teaching">Teaching</a>
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
-# Curriculum Vitae
-### Ulster University
+# Jacopo Romoli
+## University of Bergen
 
-School of Communication & Media
+Department of Foreign Languages
+HF-bygget, Sydnesplassen 7 5020, Bergen, Norway
+Email: jacopo.romoli@gmail.com
+url: www.jacoporomoli.com 
 
-Faculty of Arts and Humanities and Social Sciences
 
-Shore Road, 
-Newtownabbey BT370QB
-United Kingdom
-
-Email: j.romoli@ulster.ac.uk
-URL: www.jacoporomoli.com
 
 ### Academic Positions
 
