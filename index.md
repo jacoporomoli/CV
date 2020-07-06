@@ -6,10 +6,10 @@
 # Jacopo Romoli
 ## University of Bergen
 
-Department of Foreign Languages
-HF-bygget, Sydnesplassen 7 5020, Bergen, Norway
-Email: jacopo.romoli@gmail.com
-url: www.jacoporomoli.com 
+<p>Department of Foreign Languages</p>
+<p>HF-bygget, Sydnesplassen 7 5020, Bergen, Norway</p>
+<p>Email: jacopo.romoli@gmail.com</p>
+<p>url: www.jacoporomoli.com</p>
 
 
 
