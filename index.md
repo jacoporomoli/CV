@@ -4,11 +4,11 @@
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
 # Jacopo Romoli
-## University of Bergen
+### University of Bergen
 
 <p>Department of Foreign Languages</p>
 <p>HF-bygget, Sydnesplassen 7 5020, Bergen, Norway</p>
 <p>Email: jacopo.romoli@gmail.com</p>
 <p>url: www.jacoporomoli.com</p>
 
-[Read CV here](/cv20.pdf)
+[CV here](/cv20.pdf)
