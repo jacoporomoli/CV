@@ -11,4 +11,4 @@
 <p>Email: jacopo.romoli@gmail.com</p>
 <p>url: www.jacoporomoli.com</p>
 
-[CV here](/cv20.pdf)
+View or print/download my [**CV here**](/cv20.pdf)
