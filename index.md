@@ -1,13 +1,14 @@
-<a href="https://jacoporomoli.github.io/Home/">Home</a>
+<a href="https://jacoporomoli.github.io/JacopoRomoli/">About</a>
 <a href="https://jacoporomoli.github.io/Publications">Publications</a>
 <a href="https://jacoporomoli.github.io/Teaching">Teaching</a>
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
 # Jacopo Romoli
-### University of Bergen
+### Heinrich Heine University Düsseldorf
 
-<p>Department of Foreign Languages</p>
-<p>HF-bygget, Sydnesplassen 7 5020, Bergen, Norway</p>
+<p>Linguistics III - Semantics and Pragmatics </p>
+<p>Building: 23.21, Floor/Room: 04.077</p>
+<p> Telephone: +49 211 81-12554(Sekr.)</p>
 <p>Email: jacopo.romoli@gmail.com</p>
 <p>url: www.jacoporomoli.com</p>
 
